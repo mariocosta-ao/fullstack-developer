@@ -8,12 +8,6 @@ A ideia é registrar o caminho desde o início, compartilhar desafios e soluçõ
 
 ---
 
-## 📁 Organização do repositório
-
-> **Dica de naming:** use `kebab-case` para pastas/arquivos e prefixos numéricos para manter a ordem dos módulos (`01-`, `02-`…).
-
----
-
 ## ✅ Checklist de Progresso
 
 * [x] 01 – Computador, Internet e Ferramentas
@@ -45,4 +39,4 @@ Se este repositório for útil, **⭐ deixe uma estrela** e **Watch** para acomp
 
 ## 📜 Licença
 
-Este repositório está sob a licença MIT. Veja `LICENSE` (se aplicável).
+Este repositório está sob a licença MIT. Veja `LICENSE`.
