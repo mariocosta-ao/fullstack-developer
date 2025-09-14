@@ -1,9 +1,3 @@
-# RESUMO E LINKS ÚTEIS
-
-Aqui vai um **resumo em Markdown** (anotações) do conteúdo do módulo *Basic HTML Review* do freeCodeCamp. Pode usar no Git pra consultar rápido.
-
----
-
 # Basic HTML Review
 
 ## O que é HTML
